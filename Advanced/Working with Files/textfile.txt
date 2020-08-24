@@ -1,0 +1,4 @@
+Begining of file
+line 2
+line 3
+End of file
